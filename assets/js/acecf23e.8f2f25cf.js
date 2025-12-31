@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkwave_wizard=globalThis.webpackChunkwave_wizard||[]).push([[903],{1912(a){a.exports=JSON.parse('{"blogBasePath":"/ICT-Project/blog","blogTitle":"Blog","authorsListPath":"/ICT-Project/blog/authors"}')}}]);

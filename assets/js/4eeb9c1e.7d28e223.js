@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkwave_wizard=globalThis.webpackChunkwave_wizard||[]).push([[97],{5085(a){a.exports=JSON.parse('{"metadata":{"permalink":"/ICT-Project/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);

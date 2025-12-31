@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="atom.xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://italab.github.io/ICT-Project/blog</id>
+    <title>Information and Communications Task Blog</title>
+    <updated>2021-08-26T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://italab.github.io/ICT-Project/blog"/>
+    <subtitle>Information and Communications Task Blog</subtitle>
+    <icon>https://italab.github.io/ICT-Project/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Project Participants]]></title>
+        <id>https://italab.github.io/ICT-Project/blog/welcome</id>
+        <link href="https://italab.github.io/ICT-Project/blog/welcome"/>
+        <updated>2021-08-26T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Here are is a list of participants involved in the ICT Project.]]></summary>
+        <content type="html"><![CDATA[<p>Here are is a list of participants involved in the ICT Project.</p>
+<ul>
+<li class="">Kim Inhan</li>
+<li class="">Hwang Kyung-Eun</li>
+<li class="">Kim Taewon</li>
+<li class="">Syed Haseeb Shah</li>
+</ul>]]></content>
+        <author>
+            <name>Syed Haseeb Shah</name>
+            <uri>https://quantumnovice.github.io</uri>
+        </author>
+    </entry>
+</feed>

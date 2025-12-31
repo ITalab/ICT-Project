@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkwave_wizard=globalThis.webpackChunkwave_wizard||[]).push([[989],{7747(a){a.exports=JSON.parse('{"metadata":{"permalink":"/ICT-Project/ko/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"\ube14\ub85c\uadf8","blogTitle":"\ube14\ub85c\uadf8"}}')}}]);

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Information and Communications Task Blog</title>
+        <link>https://italab.github.io/ICT-Project/ko/blog</link>
+        <description>Information and Communications Task Blog</description>
+        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>ko</language>
+        <item>
+            <title><![CDATA[Project Participants]]></title>
+            <link>https://italab.github.io/ICT-Project/ko/blog/welcome</link>
+            <guid>https://italab.github.io/ICT-Project/ko/blog/welcome</guid>
+            <pubDate>Thu, 26 Aug 2021 00:00:00 GMT</pubDate>
+            <description><![CDATA[Here are is a list of participants involved in the ICT Project.]]></description>
+            <content:encoded><![CDATA[<p>Here are is a list of participants involved in the ICT Project.</p>
+<ul>
+<li class="">Kim Inhan</li>
+<li class="">Hwang Kyung-Eun</li>
+<li class="">Kim Taewon</li>
+<li class="">Syed Haseeb Shah</li>
+</ul>]]></content:encoded>
+        </item>
+    </channel>
+</rss>

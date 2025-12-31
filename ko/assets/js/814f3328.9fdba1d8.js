@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunkwave_wizard=globalThis.webpackChunkwave_wizard||[]).push([[472],{5513(e){e.exports=JSON.parse('{"title":"\ucd5c\uadfc \uac8c\uc2dc\ubb3c","items":[{"title":"Project Participants","permalink":"/ICT-Project/ko/blog/welcome","unlisted":false,"date":"2021-08-26T00:00:00.000Z"}]}')}}]);
